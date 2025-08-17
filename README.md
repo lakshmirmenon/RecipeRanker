@@ -46,4 +46,4 @@ The model classifies recipes into three categories:
 4. Run the Streamlit app:<br>
    -streamlit run app.py<br>
 5. Live Demo<br>
--[Recipe Popularity Predictor]
+
